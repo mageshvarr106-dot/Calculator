@@ -14,6 +14,8 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Preview
+<img width="408" height="507" alt="Screenshot 2026-04-03 at 17 58 39" src="https://github.com/user-attachments/assets/bb49d90d-bd2d-4f96-8318-a17b567dd048" />
+
 A lightweight calculator designed to strengthen core JavaScript concepts like DOM manipulation and state handling.
 
 ## 📚 What I Learned
